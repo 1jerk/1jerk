@@ -3,5 +3,5 @@
 
 
 <p align="center">
-  <a href="https://7enti.carrd.co">Carrd</a>
+  <a href="https://1jerk.carrd.co">Carrd</a>
 </p>
